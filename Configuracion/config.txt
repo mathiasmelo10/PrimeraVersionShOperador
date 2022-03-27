@@ -1,0 +1,11 @@
+IP:192.168.5.50        
+PORT:3306              
+DBNAME:mbytes           
+USER:leandro.tiscornia  
+PASSWORD:54388733
+Interfaz De Red: /etc/sysconfig/network-scripts/ifcfg-ens-33
+SSH: /etc/ssh/sshd-config
+Log1: /var/log/messages
+Log2: /var/log/secure
+Log3: /var/log/SiChatIn
+Log4: /var/log/wtmp
